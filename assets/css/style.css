@@ -219,14 +219,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 30px;
   border-radius: 5px;
   color: #fff;
+  background-color: #9256f9;
   transition: 0.3s;
   font-size: 14px;
   font-weight: 600;
   border: 2px solid rgba(255, 255, 255, 0.5);
-}
-
-.navbar .getstarted .active {
-  color: #fff
 }
 
 .navbar .getstarted:hover {
@@ -367,6 +364,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #5846f9;
+}
+
+.navbar-mobile .getstarted {
+  margin: 15px;
 }
 
 .navbar-mobile .dropdown ul {
