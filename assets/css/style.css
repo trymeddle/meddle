@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fffff;
+  color: #fff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -342,7 +342,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: #fffff;
   overflow-y: auto;
   transition: 0.3s;
 }
