@@ -358,7 +358,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile a:hover:before, .navbar-mobile li:hover > a:before, .navbar-mobile .active:before {
-  visibility: visible;
+  visibility: hidden;
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
@@ -367,6 +367,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-mobile .getstarted {
   margin: 15px;
+  color: #fffff;
 }
 
 .navbar-mobile .dropdown ul {
